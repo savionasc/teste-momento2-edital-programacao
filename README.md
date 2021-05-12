@@ -9,4 +9,4 @@
 ### Regras
 - Pode sem implementado em qualquer linguagem (C, Python, Java, Javascript, PHP e etc)
 - Cada exercício deve ser representado por um arquivo, por exemplo: exercicio1.java, exercicio2.java, exercicio3.java e etc.
-- Ao finalizar os exercícios, enviar um PULL REQUEST (PR) para o respositório atual na branch MAIN seguindo seguinte padrão no nome da branch "SEU_NUMERO_CPF" e na descrição do PULL REQUEST especificar qual linguagem foi utilizada. 
+- Ao finalizar os exercícios, enviar um PULL REQUEST (PR) para o respositório atual na branch MAIN seguindo seguinte padrão no nome da branch "SEU_NUMERO_CPF" e na descrição do PULL REQUEST especificar qual seu nome, CPF e linguagem utilizada. 
